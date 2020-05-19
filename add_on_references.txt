@@ -1,0 +1,10 @@
+#Reference:https://github.com/keras-team/keras/issues/12649 K.image_dim_ordering() issue
+# Reference: https://github.com/kbardool/keras-frcnn/pull/65 MasoudKaviani
+#Reference: https://www.tensorflow.org/tutorials/customization/custom_training_walkthrough
+#Reference: https://stackoverflow.com/questions/49761611/in-tensorflow-estimator-what-does-it-mean-for-num-epochs-to-be-none
+
+# Reference: https://stackoverflow.com/questions/60948568/attributeerror-module-tensorflow-core-api-v2-image-has-no-attribute-resize
+# Reference: https://www.tensorflow.org/api_docs/python/tf/image/resize
+#Refernece: https://stackoverflow.com/questions/40136070/ipython-cv2-imwrite-not-saving-image
+https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/
+
